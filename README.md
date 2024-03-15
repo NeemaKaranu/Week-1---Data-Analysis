@@ -1,4 +1,6 @@
-# Week-1---Data-Analysis
-My first data analysis project
+# Data-Analysis: Capstone Project.
+The college application process is one of the exciting but daunting processes that determines where high school graduates will spend the most important 4 years of their life. To facilitate this process and make it a little easier, we’ve compiled the visualizations below to help users gain easy access to detailed information of potential schools.
 
-Introduction to SQL
+To further assist the decision-making process of the college or university to attend, we decided to include the diversity makeup of counties. If users know what county their schools are located in, they can look up the county and that would bring up a bar chart showing the racial group and the percentage. This is to inform the users of what to expect if they decide to go to the school and live in the area since we noticed that some schools can be more diverse than their surrounding area.
+
+We also experiment with predicting early career pay based on the percentage of each demographic. Though this doesn’t seem to give any meaningful results as it pertains to the targeted users, it is obbserved that there is generally a negative correlation between black students enrollment and early career pay. On the other hand, there is a positive correlation between white students enrollment and early career pay. This pushes the idea that better pay is predicted by the ranking or “prestigiousness” of a school, especially if the school has a low minority enrollment compared to others.
